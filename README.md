@@ -11,7 +11,7 @@ In this repository you'll find a collection of the tasks that I've accomplished 
 ### 🚩Task 1:
 To-do list application 📑
 
-In this I created a To-do list (GUI application) using python
+In this I have created a To-do list (GUI application) using python
  - It is designed to streamline your task management process.
  - You can add, delete, update and track your essential tasks.
 
