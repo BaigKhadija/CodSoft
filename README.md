@@ -26,3 +26,5 @@ A Simple Calculator ➕
                                                                       start a new calculation, <br>
                                                                       or quit the calculator. <br>
    The code is organized into loops to facilitate the interactive nature of the calculator.
+- This code provides a simple calculator interface where users can input numbers, choose from a set of operations, perform calculations, and decide whether to continue with the result, start a new calculation, or quit the calculator.
+- The code is organized into loops to facilitate the interactive nature of the calculator.
