@@ -15,10 +15,10 @@ To-do list application (using Python) 📑
 
 ### 🚩Task 2:
 A Simple Calculator ➕
- - This code provides a simple calculator interface where users can → input numbers,
-                                                                      choose from a set of operations,
-                                                                      perform calculations,
-                                                                      and decide whether to continue with the result,
-                                                                      start a new calculation,
-                                                                      or quit the calculator.
+ - This code provides a simple calculator interface where users can → input numbers, <br>
+                                                                      choose from a set of operations, <br>
+                                                                      perform calculations, <br>
+                                                                      and decide whether to continue with the result, <br>
+                                                                      start a new calculation, <br>
+                                                                      or quit the calculator. <br>
    The code is organized into loops to facilitate the interactive nature of the calculator.
