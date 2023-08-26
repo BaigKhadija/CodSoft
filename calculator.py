@@ -50,7 +50,7 @@ while calculator_on:
                                     "or 'q' to quit: ").lower()
 
             if should_continue == "y":
-                num1 = answer
+                a = answer
             elif should_continue == "n":
                 done_calculating = True
             elif should_continue == "q":
