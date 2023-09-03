@@ -24,3 +24,12 @@ Password Generator 🔐
 - Customizable Length 🔄: Users can specify the desired length of the password, allowing flexibility to generate passwords that meet their specific requirements.
 - Password Complexity 📋: With the code, users have the flexibility to select the complexity level of their passwords(low, medium & high), ensuring they meet their specific security needs.
 - User-Friendly 💡: The code is designed with user experience in mind, offering clear instructions and an intuitive interface for generating passwords effortlessly.
+
+### 🚩Task 4:
+This code is designed to provide an interactive and entertaining experience for users. It leverages Python's capabilities to create a user-friendly interface that allows players to compete in the timeless Rock, Paper, Scissors game. 🎮
+
+- 🪶User-Friendly Interface: The app offers an intuitive interface that makes it easy for players of all ages to enjoy the game.
+- 🪶Interactive Gameplay: Players can select their choice (Rock, Paper, or Scissors) and see instant results, creating an immersive gaming experience.
+- 🪶Randomized Opponent Choice: The app uses Python's random module to ensure the opponent's choice is unpredictable, adding an element of surprise and challenge to the game.
+- 🪶Score Tracking: Keep track of the score with a built-in scoring system, adding a competitive edge to the game.
+- 🪶Play Again: After each round, players have the option to play again, allowing for endless fun and competition.
