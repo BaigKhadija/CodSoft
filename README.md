@@ -26,7 +26,8 @@ Password Generator 🔐
 - User-Friendly 💡: The code is designed with user experience in mind, offering clear instructions and an intuitive interface for generating passwords effortlessly.
 
 ### 🚩Task 4:
-This code is designed to provide an interactive and entertaining experience for users. It leverages Python's capabilities to create a user-friendly interface that allows players to compete in the timeless Rock, Paper, Scissors game. 🎮
+Rock, Paper & Scissors game. 🎮
+This code is designed to provide an interactive and entertaining experience for users.
 
 - 🪶User-Friendly Interface: The app offers an intuitive interface that makes it easy for players of all ages to enjoy the game.
 - 🪶Interactive Gameplay: Players can select their choice (Rock, Paper, or Scissors) and see instant results, creating an immersive gaming experience.
