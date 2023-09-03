@@ -9,7 +9,7 @@ In this repository you'll find a collection of the tasks that I've accomplished 
 ## 📃Projects Overview:
           
 ### 🚩Task 1:
-To-do list application (using Python) 📑
+#### To-do list application (using Python) 📑
  - It is designed to streamline your task management process.
  - You can add, delete, update and track your essential tasks.
 
@@ -19,14 +19,14 @@ To-do list application (using Python) 📑
 - The code is organized into loops to facilitate the interactive nature of the calculator.
 
 ### 🚩Task 3:
-Password Generator 🔐
+#### Password Generator 🔐
 - Strong Password Generation 🔒: The code generates random passwords with a combination of uppercase and lowercase letters, numbers, and special characters. This creates highly secure passwords that are challenging for hackers to crack.
 - Customizable Length 🔄: Users can specify the desired length of the password, allowing flexibility to generate passwords that meet their specific requirements.
 - Password Complexity 📋: With the code, users have the flexibility to select the complexity level of their passwords(low, medium & high), ensuring they meet their specific security needs.
 - User-Friendly 💡: The code is designed with user experience in mind, offering clear instructions and an intuitive interface for generating passwords effortlessly.
 
 ### 🚩Task 4:
-Rock, Paper & Scissors game. 🎮
+#### Rock, Paper & Scissors game. 🎮
 
 This code is designed to provide an interactive and entertaining experience for users.
 
