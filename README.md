@@ -27,6 +27,7 @@ Password Generator 🔐
 
 ### 🚩Task 4:
 Rock, Paper & Scissors game. 🎮
+
 This code is designed to provide an interactive and entertaining experience for users.
 
 - 🪶User-Friendly Interface: The app offers an intuitive interface that makes it easy for players of all ages to enjoy the game.
