@@ -30,8 +30,8 @@ In this repository you'll find a collection of the tasks that I've accomplished 
 
 This code is designed to provide an interactive and entertaining experience for users.
 
-- 🪶User-Friendly Interface: The app offers an intuitive interface that makes it easy for players of all ages to enjoy the game.
-- 🪶Interactive Gameplay: Players can select their choice (Rock, Paper, or Scissors) and see instant results, creating an immersive gaming experience.
-- 🪶Randomized Opponent Choice: The app uses Python's random module to ensure the opponent's choice is unpredictable, adding an element of surprise and challenge to the game.
-- 🪶Score Tracking: Keep track of the score with a built-in scoring system, adding a competitive edge to the game.
-- 🪶Play Again: After each round, players have the option to play again, allowing for endless fun and competition.
+- User-Friendly Interface: The app offers an intuitive interface that makes it easy for players of all ages to enjoy the game.
+- Interactive Gameplay: Players can select their choice (Rock, Paper, or Scissors) and see instant results, creating an immersive gaming experience.
+- Randomized Opponent Choice: The app uses Python's random module to ensure the opponent's choice is unpredictable, adding an element of surprise and challenge to the game.
+- Score Tracking: Keep track of the score with a built-in scoring system, adding a competitive edge to the game.
+- Play Again: After each round, players have the option to play again, allowing for endless fun and competition.
